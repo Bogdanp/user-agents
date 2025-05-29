@@ -12,4 +12,4 @@
 (define implies
   '("user-agents-lib"))
 (define scribblings
-  '(("user-agents/manual.scrbl")))
+  '(("user-agents/user-agents-manual.scrbl")))
